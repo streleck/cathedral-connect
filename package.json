@@ -1,0 +1,26 @@
+{
+  "name": "cathedral-connect",
+  "version": "1.0.0",
+  "description": "Play the 'classic' board game online!",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streleck/cathedral-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/streleck/cathedral-connect/issues"
+  },
+  "homepage": "https://github.com/streleck/cathedral-connect#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.0"
+  }
+}
