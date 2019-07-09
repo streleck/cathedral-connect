@@ -1,0 +1,14 @@
+#user-corner {
+  background-color: white;
+  width: fit-content;
+  float: right;
+  padding: 5px 10px;
+  border: 1px solid #aaa;
+  border-radius: 7px;
+}
+#user-corner h3{
+  margin: 0;
+  padding: 0;
+  display: inline;
+  margin-right: 5px;
+}

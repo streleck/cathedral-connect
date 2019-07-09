@@ -1,0 +1,12 @@
+#form-box {
+  background-color: white;
+  width: fit-content;
+  margin: 200px auto 0 auto;
+  padding: 20px 20px 20px 10px;;
+}
+#form-box h2{
+  font-size: 20px;
+}
+form div{
+  margin: 5px 0 5px 0;
+}
